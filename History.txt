@@ -1,3 +1,8 @@
+== 0.3.6
+
+* 1 improvment
+  * adapter for MongoID [Sebastian Zuchmanski]
+
 == 0.3.5
 
 * 3 improvements
